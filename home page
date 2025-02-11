@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MentorsPoint - Learn Smarter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>MentorsPoint</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="videos.html">Videos</a>
+            <a href="pdfs.html">PDFs</a>
+            <a href="mcqs.html">MCQs</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Upgrade Your Learning</h2>
+        <p>Free video lectures, PDFs, and MCQs to boost your knowledge.</p>
+    </section>
+
+    <section class="features">
+        <div class="feature-box">
+            <h3>Video Lectures</h3>
+            <p>Learn from expert video lessons.</p>
+        </div>
+        <div class="feature-box">
+            <h3>Study PDFs</h3>
+            <p>Download high-quality notes & resources.</p>
+        </div>
+        <div class="feature-box">
+            <h3>MCQ Practice</h3>
+            <p>Test yourself with interactive MCQs.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 MentorsPoint | Learn Smarter, Learn Better.</p>
+    </footer>
+</body>
+</html>
